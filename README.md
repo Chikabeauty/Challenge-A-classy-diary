@@ -1,0 +1,1 @@
+This webpage has three images in the body, but there are no styles yet. eHA Academy defined a few CSS rules with class selectors at the top. Some of the rules change the size of the image, and others change the border. I create an HTML document and added two class names to each image so that the sizes and borders vary from each other.
